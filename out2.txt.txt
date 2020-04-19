@@ -1,0 +1,14 @@
+Init done.
+addRoom: SUCCESS
+addRoom: SUCCESS
+deleteRoom: SUCCESS
+addLecture: FAILURE
+addLecture: SUCCESS
+addLecture: SUCCESS
+addRoom: SUCCESS
+addLecture: SUCCESS
+deleteLecture: SUCCESS
+mergeCourses: SUCCESS
+The average is: 25.00
+The average is: 25.00
+Quit done.
